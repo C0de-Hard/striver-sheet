@@ -6,7 +6,7 @@ Graph is a 2-tuple Entity, V and E, where V is set of Vertices and E represents 
 
 ## Representations 
 Both V and E can be represented (or given to us) as a set or vector.
-And the pairs also can be represented as tuple, set, vectors of two or the pair(keyword).**
+And the pairs also can be represented as tuple, set, vectors of two or the pair(keyword).
 
 **TO DENOTE V OR E OR BOTH, WE WILL BE USING MOST OF THE TIME VECTOR OF VECTORS, OR SOMETIMES VECTOR OF PAIRS.**
 
