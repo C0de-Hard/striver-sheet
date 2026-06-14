@@ -69,9 +69,7 @@ Fixes applied:
 
 Improvements suggested by Copilot:
 - Instead of full-grid scan with isAnyFreshLeft() at end, count fresh oranges initially and decrement as you rot them. Then check fresh==0.
-
-Tips:
-(ask before writing)
 */
+
     }
 };
