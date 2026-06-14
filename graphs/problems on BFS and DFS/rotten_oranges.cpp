@@ -5,6 +5,20 @@ using namespace std;
 
 // Quick review notes moved below (kept minimal per request).
 class Solution {
+/*
+Notes: ROTTEN ORANGES
+What I did wrong:
+- None (logic was correct).
+
+Fixes applied:
+- None needed.
+
+Improvements suggested by Copilot:
+- Instead of full-grid scan with isAnyFreshLeft() at end, count fresh oranges initially and decrement as you rot them. Then check fresh==0.
+
+Tips:
+(ask before writing)
+*/
 public:
     bool inBounds(int i, int j, int m, int n) {
         if (i < 0 || i >= m || j < 0 || j >= n) return false;
@@ -44,5 +58,20 @@ public:
         return -1;
 
         
+
+/*
+Notes: ROTTEN ORANGES
+What I did wrong:
+- None (logic was correct).
+
+Fixes applied:
+- None needed.
+
+Improvements suggested by Copilot:
+- Instead of full-grid scan with isAnyFreshLeft() at end, count fresh oranges initially and decrement as you rot them. Then check fresh==0.
+
+Tips:
+(ask before writing)
+*/
     }
 };

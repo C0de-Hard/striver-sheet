@@ -25,3 +25,19 @@ public:
         return ans;
     }
 };
+
+    /*
+    Notes: NO. OF PROVINCES
+    What I did wrong:
+    - Made double loops to DFS on each cell but that's wrong. I just needed to check on the unvisited rows (i.e., nodes) and then DFS will handle it (i.e., on cell of that row). This is like the adjacency-list approach.
+
+    Fixes applied:
+    - Loop through every node i (0 to n-1). If !vis[i], run DFS from i and increment answer.
+
+    Improvements suggested by Copilot:
+    - Passing adjacency matrix as const reference.
+    - Removed redundant early vis[i]=true marking.
+
+    Tips:
+    - Province count = number of DFS starts from unvisited nodes.
+    */
