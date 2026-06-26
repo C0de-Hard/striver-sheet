@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
 |  |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/C0de-Hard/striver-sheet/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
