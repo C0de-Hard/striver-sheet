@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/C0de-Hard/striver-sheet/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/C0de-Hard/striver-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/C0de-Hard/striver-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
