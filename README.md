@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/C0de-Hard/striver-sheet/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/C0de-Hard/striver-sheet/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
