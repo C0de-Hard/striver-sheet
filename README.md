@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/C0de-Hard/striver-sheet/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/C0de-Hard/striver-sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/C0de-Hard/striver-sheet/tree/master/0043-multiply-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/C0de-Hard/striver-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/C0de-Hard/striver-sheet/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/C0de-Hard/striver-sheet/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
