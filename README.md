@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/C0de-Hard/striver-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
 | [0393-utf-8-validation](https://github.com/C0de-Hard/striver-sheet/tree/master/0393-utf-8-validation) |
+| [0540-single-element-in-a-sorted-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/C0de-Hard/striver-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/C0de-Hard/striver-sheet/tree/master/0074-search-a-2d-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
 | ------- |
