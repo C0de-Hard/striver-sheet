@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/C0de-Hard/striver-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/C0de-Hard/striver-sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/C0de-Hard/striver-sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/C0de-Hard/striver-sheet/tree/master/0043-multiply-strings) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/C0de-Hard/striver-sheet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Depth-First Search
 |  |
 | ------- |
