@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/C0de-Hard/striver-sheet/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/C0de-Hard/striver-sheet/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/C0de-Hard/striver-sheet/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/C0de-Hard/striver-sheet/tree/master/0204-count-primes) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/C0de-Hard/striver-sheet/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/C0de-Hard/striver-sheet/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
