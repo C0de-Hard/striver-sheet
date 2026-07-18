@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/C0de-Hard/striver-sheet/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/C0de-Hard/striver-sheet/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/C0de-Hard/striver-sheet/tree/master/0204-count-primes) |
 | [0393-utf-8-validation](https://github.com/C0de-Hard/striver-sheet/tree/master/0393-utf-8-validation) |
 | [0540-single-element-in-a-sorted-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/C0de-Hard/striver-sheet/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/C0de-Hard/striver-sheet/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/C0de-Hard/striver-sheet/tree/master/0204-count-primes) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/C0de-Hard/striver-sheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
@@ -105,9 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/C0de-Hard/striver-sheet/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/C0de-Hard/striver-sheet/tree/master/1291-sequential-digits) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/C0de-Hard/striver-sheet/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/C0de-Hard/striver-sheet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
