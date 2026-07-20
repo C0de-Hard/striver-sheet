@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/C0de-Hard/striver-sheet/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/C0de-Hard/striver-sheet/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/C0de-Hard/striver-sheet/tree/master/0043-multiply-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/C0de-Hard/striver-sheet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
@@ -116,9 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/C0de-Hard/striver-sheet/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/C0de-Hard/striver-sheet/tree/master/0078-subsets) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/C0de-Hard/striver-sheet/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/C0de-Hard/striver-sheet/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
