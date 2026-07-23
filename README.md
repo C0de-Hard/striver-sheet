@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/C0de-Hard/striver-sheet/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/C0de-Hard/striver-sheet/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/C0de-Hard/striver-sheet/tree/master/0216-combination-sum-iii) |
 | [0393-utf-8-validation](https://github.com/C0de-Hard/striver-sheet/tree/master/0393-utf-8-validation) |
 | [0540-single-element-in-a-sorted-array](https://github.com/C0de-Hard/striver-sheet/tree/master/0540-single-element-in-a-sorted-array) |
 | [0840-magic-squares-in-grid](https://github.com/C0de-Hard/striver-sheet/tree/master/0840-magic-squares-in-grid) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/C0de-Hard/striver-sheet/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/C0de-Hard/striver-sheet/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/C0de-Hard/striver-sheet/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
 | ------- |
