@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/C0de-Hard/striver-sheet/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/C0de-Hard/striver-sheet/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/C0de-Hard/striver-sheet/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/C0de-Hard/striver-sheet/tree/master/0137-single-number-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/C0de-Hard/striver-sheet/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/C0de-Hard/striver-sheet/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/C0de-Hard/striver-sheet/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/C0de-Hard/striver-sheet/tree/master/0216-combination-sum-iii) |
 ## Number Theory
